@@ -1,0 +1,4 @@
+git config --global user.name "Jane Bloggs"
+git config --global user.email "aac419@ic.ac.uk"
+git config --global color.ui "auto"
+
